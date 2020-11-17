@@ -16,11 +16,11 @@ https://drive.google.com/file/d/1l4-TdKI82OyjlqHcqVCRXYkm1tTKU4c8/view?usp=shari
 
 #### Task 1: 
 Find search bar from home screen, where to input information and where filters would be found.
-This was very easy for the user, they were able to properly locate the filters and locate the search bar. Going back to the home screen was also very easy and intuitive for the user. They mentioned after the highlighted the section they were on in the bottom row helped them remember where they are in the app. The cart location was also clear to them as well as the function of each of the categories displayed. 
+This was very easy for the user, they were able to properly locate the filters and locate the search bar. Going back to the home screen was also very easy and intuitive for the user. They mentioned after the highlighted the section they were on in the bottom row helped them remember where they are in the app. The cart location was also clear to them as well as the function of each of the categories displayed. I wouldn't change much in terms of the basic functions of the app.
 
 #### Task 2: 
 How to find user’s profile and add a listing to your shop.
-This was also quite easy for the user. They were able to identify the figurine in the bottom right hand corner as the profile section and properly list most of the functions on this screen. I noticed having icons that correspond to intended use is very helpful for users. Adding an item to the shop was also very easy, and being able to back out of this back to the shop page and the home page were also both very easy. The user’s interpretation of having the camera in the app was not as I intended. They said that it was for ease of use when in reality I meant for this as a step in the authentication process. 
+This was also quite easy for the user. They were able to identify the figurine in the bottom right hand corner as the profile section and properly list most of the functions on this screen. I noticed having icons that correspond to intended use is very helpful for users. Adding an item to the shop was also very easy, and being able to back out of this back to the shop page and the home page were also both very easy. The user’s interpretation of having the camera in the app was not as I intended. They said that it was for ease of use when in reality I meant for this as a step in the authentication process. I would add clarity not just in terms of the basic functions of the app, but why they exist in order to draw the user in and get them invested in our app. 
 
 #### Task 3: 
 How to find map with items, how to search for items and how to select and filter certain listings. 
